@@ -63,7 +63,8 @@ body{
 .nike-main__img-product {
 	/* display: inline-block; */
 	margin: 68px 0 0 35px;
-	max-width: 100%;
+	max-width: 329px;
+	max-height: 159px;
 
 }
 
